@@ -13,7 +13,7 @@
 // 2️⃣ parameterized constructor
 // 3️⃣ copy constructor
 
-//👍🏻 cexample
+//👍🏻 example
 
 #include <iostream>
 using namespace std;
@@ -55,7 +55,7 @@ int main(){
 
 }
 
-// 🔥 constructor overloading
+// 🔥 constructor overloading -->it is also an example of polymorphism
 
 class Demo{
     Demo(){
@@ -66,3 +66,5 @@ class Demo{
         cout << a <<"paramertised constructor" <<endl;
     }
 };
+
+
